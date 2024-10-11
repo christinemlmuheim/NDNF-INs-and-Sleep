@@ -22,7 +22,7 @@ ___________________
 
 #### Data availability
 
-The data needed to run this code is available on Zenodo (DOI: ) or via request to the author
+The data needed to run this code is available on Zenodo (DOI: 10.5281/zenodo.13921467) or via request to the author
 
 ___________________
 
