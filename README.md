@@ -2,7 +2,7 @@
 
 ___________________
 ### Author:
-Christine Muheim ((christine.muheim@gmail.de)
+Christine Muheim ((christine.muheim@gmail.de /christine.muheim@wsu.edu)
 ___________________
 
 #### General Info
@@ -18,6 +18,11 @@ After adequate recovery time, animals were mounted with a baseplate to securely 
 
 Animals were recorded over 48h, whereof the first 24hrs were undisturbed (baseline, BL), followed by a 6h sleep deprivation (SD) 
 and 18hrs recovery period. SD started at ZT0 when the lights were turned on. 
+___________________
+
+#### Data availability
+
+The data needed to run this code is available on Zenodo (DOI: ) or via request to the author
 
 ___________________
 
